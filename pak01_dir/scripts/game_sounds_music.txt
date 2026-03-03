@@ -3588,6 +3588,8 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread.wav"
 	"wave"			"@#music/CustomThings/tankom.wav"
+	"wave"			"@#music/CustomThings/tankcm.wav"
+	"wave"			"@#music/CustomThings/tankgrace.wav"
 	
 	GameData
 	{
@@ -3605,6 +3607,8 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread.wav"
 	"wave"			"@#music/CustomThings/tankom.wav"
+	"wave"			"@#music/CustomThings/tankcm_finale.wav"
+	"wave"			"@#music/CustomThings/tankgrace_finale.wav"
 	
 	GameData
 	{
