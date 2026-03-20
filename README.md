@@ -13,12 +13,18 @@
 <p> <a href="https://youtu.be/-Syn1mJVt7U">Scourge of The Universe</a> - <a href="https://www.youtube.com/@DMDOKURO">DM DOKURO
 <p> <a href="https://youtu.be/opvuEVpl_PM">UNIVERSAL COLLAPSE</a> - <a href="https://www.youtube.com/@DMDOKURO">DM DOKURO
 
+<h2>Library of Ruina</h2>
+<p> <a href="a">Roland Realization</a> - <a href="https://www.youtube.com/@StudioEIM">Studio EIM
+
 <h2>Black Mesa</h2>
 <p> <a href="https://youtu.be/u7p9t9J-2pE">Black Mesa Theme</a> - <a href="https://www.youtube.com/@JoelNielsenMusic">Joel Nielsen
 
 <h2>Forsaken (Roblox)</h2>
-<p> <a href="https://youtu.be/Tk_7Mrxzf-o">Undying Faith</a> - xXthecurseXx</p>
+<p> <a href="https://youtu.be/Tk_7Mrxzf-o">Undying Faith</a> - <a href="https://www.youtube.com/@EmmyNoiz">Emmy Z 
+<p> <a href="https://youtu.be/krgCnLF5dtw">Faith's Answer</a> - <a href="https://www.youtube.com/@EmmyNoiz">Emmy Z 
+<p> <a href="https://youtu.be/963xoUC-peQ">lament</a> - <a href="https://www.youtube.com/@EmmyNoiz">Emmy Z
 <p> <a href="https://youtu.be/L-VUX3Z7ss8">Eternal Hope Eternal Fight</a> - <a href="https://www.youtube.com/@exedious">Exedious
+<p> <a href="https://youtu.be/F6KJJ3iwK4A">A GRAVE SOUL (NOW, RUN)</a> - <a href="https://www.youtube.com/@exedious">Exedious
   
 <h2>Outcome Memories (Roblox)</h2>
 <p> <a href="https://youtu.be/7pi7Llw4hrI">Outcome Memories: 2011x Chase Theme</a> - <a href="https://www.youtube.com/@locktrap9767">Lock Trap
