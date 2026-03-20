@@ -3274,6 +3274,7 @@
 	"volume"		"0.88"
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/fsklms_early25.wav"
+	"wave"			"@#music/CustomThings/fsklms_mid25.wav"
 
 	GameData
 	{
