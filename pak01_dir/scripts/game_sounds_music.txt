@@ -3590,6 +3590,7 @@
 	"wave"			"@#music/CustomThings/tankom.wav"
 	"wave"			"@#music/CustomThings/tankcm.wav"
 	"wave"			"@#music/CustomThings/tankgrace.wav"
+	"wave"			"@#music/CustomThings/tankroland.wav"
 	
 	GameData
 	{
@@ -3609,6 +3610,7 @@
 	"wave"			"@#music/CustomThings/tankom.wav"
 	"wave"			"@#music/CustomThings/tankcm_finale.wav"
 	"wave"			"@#music/CustomThings/tankgrace_finale.wav"
+	"wave"			"@#music/CustomThings/tankroland_finale.wav"
 	
 	GameData
 	{
