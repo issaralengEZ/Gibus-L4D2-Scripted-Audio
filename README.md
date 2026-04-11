@@ -18,6 +18,14 @@
 
 <h2>Black Mesa</h2>
 <p> <a href="https://youtu.be/u7p9t9J-2pE">Black Mesa Theme</a> - <a href="https://www.youtube.com/@JoelNielsenMusic">Joel Nielsen
+<p> <a href="https://youtu.be/H3wy_GGuA1E">We've Got Hostiles</a> - <a href="https://www.youtube.com/@JoelNielsenMusic">Joel Nielsen
+
+<h2>Deltarune</h2>
+<p> <a href="https://youtu.be/Ce-gU8G6Vik">Vs. Lancer</a> - <a href="https://https://www.youtube.com/@toby-fox-music">Toby Fox
+<p> <a href="https://youtu.be/HZO3xw91eHw">Smart Race</a> - <a href="https://https://www.youtube.com/@toby-fox-music">Toby Fox
+<p> <a href="https://youtu.be/vBjscyFC3jo">Attack of the Killer Queen</a> - <a href="https://https://www.youtube.com/@toby-fox-music">Toby Fox
+<p> <a href="https://youtu.be/V31PVkwzpEY">BIG SHOT</a> - <a href="https://https://www.youtube.com/@toby-fox-music">Toby Fox
+<p> <a href="https://youtu.be/TkvdhHEuCNY">Faint Courage</a> - <a href="https://https://www.youtube.com/@toby-fox-music">Toby Fox
 
 <h2>Forsaken (Roblox)</h2>
 <p> <a href="https://youtu.be/Tk_7Mrxzf-o">Undying Faith</a> - <a href="https://www.youtube.com/@EmmyNoiz">Emmy Z 
