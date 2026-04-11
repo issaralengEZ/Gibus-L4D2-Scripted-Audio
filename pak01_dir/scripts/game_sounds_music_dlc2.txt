@@ -963,6 +963,7 @@
 	"wave"			"@#music/CustomThings/dead_triagedawn.wav"
 	"wave"			"@#music/CustomThings/dead_guidinglight.wav"
 	"wave"			"@#music/CustomThings/dead_curiouslight.wav"
+	"wave"			"@#music/CustomThings/dead_deltarune.wav"
 	
 	GameData
 	{

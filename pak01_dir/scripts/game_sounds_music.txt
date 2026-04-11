@@ -3167,6 +3167,7 @@
 	"wave"			"@#music/CustomThings/dead_triagedawn.wav"
 	"wave"			"@#music/CustomThings/dead_guidinglight.wav"
 	"wave"			"@#music/CustomThings/dead_curiouslight.wav"
+	"wave"			"@#music/CustomThings/dead_deltarune.wav"
 	
 	GameData
 	{
@@ -3592,6 +3593,8 @@
 	"wave"			"@#music/CustomThings/tankcm.wav"
 	"wave"			"@#music/CustomThings/tankgrace.wav"
 	"wave"			"@#music/CustomThings/tankroland.wav"
+	"wave"			"@#music/CustomThings/tankdeltarunelancer.wav"
+	"wave"			"@#music/CustomThings/tankdeltaruneberdly.wav"
 	
 	GameData
 	{
@@ -3612,6 +3615,7 @@
 	"wave"			"@#music/CustomThings/tankcm_finale.wav"
 	"wave"			"@#music/CustomThings/tankgrace_finale.wav"
 	"wave"			"@#music/CustomThings/tankroland_finale.wav"
+	"wave"			"@#music/CustomThings/tankdeltarune_finale.wav"
 	
 	GameData
 	{

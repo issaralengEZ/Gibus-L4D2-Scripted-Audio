@@ -809,8 +809,6 @@
 	"playlooping"
 	{
 		"wave"			"music\CustomThings\elevator_forecast.wav"
-		"wave"			"music\CustomThings\elevator_mvm.wav"
-		"wave"			"music\CustomThings\elevator_doors.wav"
 		"volume" 		"0.8"
 		"soundlevel"	"SNDLVL_NORM"
 	}
