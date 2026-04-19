@@ -5,7 +5,7 @@ There might be some audio that are very loud, so be careful and turn down your v
 
 <h1>Few things to note</h1>
 Not only that the file include a soundtrack but also an audio when your teammate dies, everything will played at random.<br>
-Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3630287845">ChimiChamo's RNG Tank Music Guide</a> for an idea and inspiration to make this become a thing
+Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3630287845">ChimiChamo's RNG Tank Music Guide</a> for an idea and inspiration to make this become a thing.
 
 <h2>Team Fortress 2</h2>
 <p> <a href="https://youtu.be/cmGSylSh5os">Rise Of The Living Bread</a> - Valve Studio Orchestra</p>
