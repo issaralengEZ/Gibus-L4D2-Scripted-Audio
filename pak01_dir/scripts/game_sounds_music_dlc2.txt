@@ -963,7 +963,9 @@
 	"wave"			"@#music/CustomThings/dead_triagedawn.wav"
 	"wave"			"@#music/CustomThings/dead_guidinglight.wav"
 	"wave"			"@#music/CustomThings/dead_curiouslight.wav"
+	"wave"			"@#music/CustomThings/dead_goneangels.wav"
 	"wave"			"@#music/CustomThings/dead_deltarune.wav"
+	"wave"			"@#music/CustomThings/dead_nullscape.wav"
 	
 	GameData
 	{
@@ -1030,6 +1032,8 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/fsklms_late24.wav"
 	"wave"			"@#music/CustomThings/fsklms_late24remix.wav"
+	"wave"			"@#music/CustomThings/nullescape_kenophobia.wav"
+	"wave"			"@#music/CustomThings/nullescape_telefragged.wav"
 
 	GameData
 	{
