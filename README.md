@@ -21,8 +21,9 @@ Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?i
 <p> <a href="https://youtu.be/opvuEVpl_PM">UNIVERSAL COLLAPSE</a> - <a href="https://www.youtube.com/@DMDOKURO">DM DOKURO
 
 <h2>Library of Ruina</h2>
-<p> <a href="a">Roland Realization</a> - <a href="https://www.youtube.com/@StudioEIM">Studio EIM
-
+<p> <a href="https://youtu.be/eyfebNd3scw">Roland Realization</a> - <a href="https://www.youtube.com/@StudioEIM">Studio EIM 
+<p> <a href="https://youtu.be/08-sJb7ISSs">Gone Angels (Piano Cover)</a> - <a href="https://www.youtube.com/@SicaH">SicaH
+    
 <h2>Black Mesa</h2>
 <p> <a href="https://youtu.be/u7p9t9J-2pE">Black Mesa Theme</a> - <a href="https://www.youtube.com/@JoelNielsenMusic">Joel Nielsen
 <p> <a href="https://youtu.be/H3wy_GGuA1E">We've Got Hostiles</a> - <a href="https://www.youtube.com/@JoelNielsenMusic">Joel Nielsen
@@ -52,3 +53,10 @@ Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?i
 
 <h2>Grace (Roblox)</h2>
 <p> <a href="https://youtu.be/bo7CJZZgGOQ">RETALIATION</a> - <a href="https://rosefield-sciences.bandcamp.com/album/roblox-grace-ost-garden-trax-disc-2">Sebastian "vey" Fennec & Ezekiel II
+
+<h2>Nullscape (Roblox)</h2>
+<p> <a href="https://youtu.be/j7OEsDwenzQ">Void Explorer</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
+<p> <a href="https://youtu.be/Khtww4Fbuu4">Seems you got Telefragged</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
+<p> <a href="https://youtu.be/GdccWR8T1x4">Paradox Trip</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
+<p> <a href="https://youtu.be/FGDklqbMx8c">Kenophobia</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
+<p> <a href="https://youtu.be/ev070aPexxQ">FIND YOUR FLAME [Instrumental]</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
