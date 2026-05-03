@@ -3599,6 +3599,7 @@
 	"wave"			"@#music/CustomThings/tankroland.wav"
 	"wave"			"@#music/CustomThings/tankdeltarunelancer.wav"
 	"wave"			"@#music/CustomThings/tankdeltaruneberdly.wav"
+	"wave"			"@#music/CustomThings/tankitemasylum.wav"
 	
 	GameData
 	{
@@ -3620,6 +3621,8 @@
 	"wave"			"@#music/CustomThings/tankgrace_finale.wav"
 	"wave"			"@#music/CustomThings/tankroland_finale.wav"
 	"wave"			"@#music/CustomThings/tankdeltarune_finale.wav"
+	"wave"			"@#music/CustomThings/tankitemasylum_finale.wav"
+	"wave"			"@#music/CustomThings/tankitemasylumburst_finale.wav"
 	
 	GameData
 	{

@@ -400,6 +400,8 @@
 	"wave"			"@#music/CustomThings/tankroland_metal.wav"
 	"wave"			"@#music/CustomThings/tankdeltarune_metal.wav"
 	"wave"			"@#music/CustomThings/tanknull_metal.wav"
+	"wave"			"@#music/CustomThings/tankitemasylum_metal.wav"
+	"wave"			"@#music/CustomThings/tankitemasylumburst_metal.wav"
 	
 	GameData
 	{
