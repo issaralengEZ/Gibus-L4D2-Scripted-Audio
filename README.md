@@ -59,4 +59,15 @@ Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?i
 <p> <a href="https://youtu.be/Khtww4Fbuu4">Seems you got Telefragged</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
 <p> <a href="https://youtu.be/GdccWR8T1x4">Paradox Trip</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
 <p> <a href="https://youtu.be/FGDklqbMx8c">Kenophobia</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
-<p> <a href="https://youtu.be/ev070aPexxQ">FIND YOUR FLAME [Instrumental]</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT
+<p> <a href="https://youtu.be/ev070aPexxQ">FIND YOUR FLAME [Instrumental]</a> - <a href="https://www.youtube.com/@DIGITAL_DESCENDANT">DIGITAL DESCENDANT https://youtu.be/tH12wNhpGUQ?si=NKJYhIid4BCUcwMT
+
+<h2>Item Asylum (Roblox)</h2>
+<p> <a href="https://youtu.be/tH12wNhpGUQ">Hale</a> - <a href="https://www.youtube.com/@AdenMayo">Aden Mayo
+<p> <a href="https://youtu.be/bElBTF8MiRw">SMILER</a> - <a href="https://www.youtube.com/@AdenMayo">Aden Mayo
+<p> <a href="https://youtu.be/a5LyzJdJw4I">Too Many Trumpets</a> - <a href="https://www.youtube.com/@AdenMayo">Aden Mayo
+<p> <a href="https://youtu.be/6cX7G7XqPrc">SMILER (BURST Remix)</a> - <a href="https://www.youtube.com/@cr7ptic460">Cr7ptic
+<p> <a href="https://youtu.be/JwTjtqEi_hY">Too Many Trumpets (BURST Remix)</a> - <a href="https://www.youtube.com/@cr7ptic460">Cr7ptic
+
+
+
+
