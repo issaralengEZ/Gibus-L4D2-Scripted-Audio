@@ -68,6 +68,7 @@ Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?i
 <p> <a href="https://youtu.be/6cX7G7XqPrc">SMILER (BURST Remix)</a> - <a href="https://www.youtube.com/@cr7ptic460">Cr7ptic
 <p> <a href="https://youtu.be/JwTjtqEi_hY">Too Many Trumpets (BURST Remix)</a> - <a href="https://www.youtube.com/@cr7ptic460">Cr7ptic
 
-
-
+<h2>Plants Vs. Zombies</h2>
+<p> <a href="https://youtu.be/lr4vi_XAjQQ">Loonboon</a> - <a href="https://www.youtube.com/@supershigi">Laura Shigihara
+<p> <a href="https://youtu.be/mzL8GugPslM">Brainiac Maniac</a> - <a href="https://www.youtube.com/@supershigi">Laura Shigihara
 
