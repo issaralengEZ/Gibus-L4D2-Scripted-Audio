@@ -966,6 +966,8 @@
 	"wave"			"@#music/CustomThings/dead_goneangels.wav"
 	"wave"			"@#music/CustomThings/dead_deltarune.wav"
 	"wave"			"@#music/CustomThings/dead_nullscape.wav"
+	"wave"			"@#music/CustomThings/dead_terriblethings.wav"
+	"wave"			"@#music/CustomThings/dead_stilllife.wav"
 	
 	GameData
 	{
@@ -1034,6 +1036,7 @@
 	"wave"			"@#music/CustomThings/fsklms_late24remix.wav"
 	"wave"			"@#music/CustomThings/nullescape_kenophobia.wav"
 	"wave"			"@#music/CustomThings/nullescape_telefragged.wav"
+	"wave"			"@#music/CustomThings/escape_minusb.wav"
 
 	GameData
 	{
