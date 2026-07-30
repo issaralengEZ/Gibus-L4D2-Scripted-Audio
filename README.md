@@ -72,3 +72,11 @@ Special Thanks to <a href="https://steamcommunity.com/sharedfiles/filedetails/?i
 <p> <a href="https://youtu.be/lr4vi_XAjQQ">Loonboon</a> - <a href="https://www.youtube.com/@supershigi">Laura Shigihara
 <p> <a href="https://youtu.be/mzL8GugPslM">Brainiac Maniac</a> - <a href="https://www.youtube.com/@supershigi">Laura Shigihara
 
+<h2>Misc (a music that are not exactly coming from a game)</h2>
+<p> <a href="https://youtu.be/OLKjWMvoY40">Bang Bang Bang. (Lilyappa/Minus B Remix) // Full Ver</a> - <a href="https://www.youtube.com/@prod.lilyappa">lil yappa
+<p> <a href="https://youtu.be/FUXVphNfvAk">Terrible Things (Instrumental)</a> - <a href="https://www.youtube.com/@erm">AXIE
+<p> <a href="https://youtu.be/7qqUHdLAX-8">Still Life</a> - <a href="https://www.youtube.com/@notkanepixels1407">Kane Parsons
+
+
+
+
