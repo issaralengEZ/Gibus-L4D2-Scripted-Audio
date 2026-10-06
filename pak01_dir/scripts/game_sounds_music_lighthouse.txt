@@ -404,6 +404,9 @@
 	"wave"			"@#music/CustomThings/tankitemasylum_metal.wav"
 	"wave"			"@#music/CustomThings/tankitemasylumburst_metal.wav"
 	"wave"			"@#music/CustomThings/tankpvz_metal.wav"
+	"wave"			"@#music/CustomThings/tanklivinglegendfsk_metal.wav"
+	"wave"			"@#music/CustomThings/tankph0nkkiddfsk_metal.wav"
+	"wave"			"@#music/CustomThings/tanksixerfsk_metal.wav"
 	
 	GameData
 	{

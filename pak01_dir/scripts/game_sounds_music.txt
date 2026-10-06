@@ -3628,6 +3628,7 @@
 	"wave"			"@#music/CustomThings/tankitemasylum_finale.wav"
 	"wave"			"@#music/CustomThings/tankitemasylumburst_finale.wav"
 	"wave"			"@#music/CustomThings/tankpvz.wav"
+	"wave"			"@#music/CustomThings/tankpursuerfsk_finale.wav"
 	
 	GameData
 	{
