@@ -3165,13 +3165,13 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/dead_blackmesa.wav"
 	"wave"			"@#music/CustomThings/dead_triagedawn.wav"
-	"wave"			"@#music/CustomThings/dead_guidinglight.wav"
 	"wave"			"@#music/CustomThings/dead_curiouslight.wav"
 	"wave"			"@#music/CustomThings/dead_goneangels.wav"
 	"wave"			"@#music/CustomThings/dead_deltarune.wav"
 	"wave"			"@#music/CustomThings/dead_nullscape.wav"
 	"wave"			"@#music/CustomThings/dead_terriblethings.wav"
 	"wave"			"@#music/CustomThings/dead_stilllife.wav"
+	"wave"			"@#music/CustomThings/dead_sleepfsk.wav"
 	
 	GameData
 	{
@@ -3596,7 +3596,6 @@
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread.wav"
-	"wave"			"@#music/CustomThings/tankom.wav"
 	"wave"			"@#music/CustomThings/tankcm.wav"
 	"wave"			"@#music/CustomThings/tankgrace.wav"
 	"wave"			"@#music/CustomThings/tankroland.wav"
@@ -3620,7 +3619,6 @@
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread.wav"
-	"wave"			"@#music/CustomThings/tankom.wav"
 	"wave"			"@#music/CustomThings/tankcm_finale.wav"
 	"wave"			"@#music/CustomThings/tankgrace_finale.wav"
 	"wave"			"@#music/CustomThings/tankroland_finale.wav"
@@ -3629,6 +3627,7 @@
 	"wave"			"@#music/CustomThings/tankitemasylumburst_finale.wav"
 	"wave"			"@#music/CustomThings/tankpvz.wav"
 	"wave"			"@#music/CustomThings/tankpursuerfsk_finale.wav"
+	"wave"			"@#music/CustomThings/tankinfermonofsk.wav
 	
 	GameData
 	{
@@ -3667,7 +3666,6 @@
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread.wav"
-	"wave"			"@#music/CustomThings/tankom.wav"
 	
 	GameData
 	{

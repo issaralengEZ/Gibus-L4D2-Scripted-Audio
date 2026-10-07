@@ -394,7 +394,6 @@
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
 	"wave"			"@#music/CustomThings/tankbread_metal.wav"
-	"wave"			"@#music/CustomThings/tankom_metal.wav"
 	"wave"			"@#music/CustomThings/tankcm_metal.wav"
 	"wave"			"@#music/CustomThings/tankgrace_metal.wav"
 	"wave"			"@#music/CustomThings/tankroland_metal.wav"

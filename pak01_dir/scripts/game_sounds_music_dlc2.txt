@@ -962,12 +962,12 @@
 	"wave"			"@#music/CustomThings/dead_blackmesa.wav"
 	"wave"			"@#music/CustomThings/dead_triagedawn.wav"
 	"wave"			"@#music/CustomThings/dead_guidinglight.wav"
-	"wave"			"@#music/CustomThings/dead_curiouslight.wav"
 	"wave"			"@#music/CustomThings/dead_goneangels.wav"
 	"wave"			"@#music/CustomThings/dead_deltarune.wav"
 	"wave"			"@#music/CustomThings/dead_nullscape.wav"
 	"wave"			"@#music/CustomThings/dead_terriblethings.wav"
 	"wave"			"@#music/CustomThings/dead_stilllife.wav"
+	"wave"			"@#music/CustomThings/dead_sleepfsk.wav"
 	
 	GameData
 	{
@@ -1032,7 +1032,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"			"@#music/CustomThings/fsklms_late24.wav"
+	"wave"			"@#music/CustomThings/fsklms_dam.wav"
 	"wave"			"@#music/CustomThings/fsklms_late24remix.wav"
 	"wave"			"@#music/CustomThings/nullescape_kenophobia.wav"
 	"wave"			"@#music/CustomThings/nullescape_telefragged.wav"
